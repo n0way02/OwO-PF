@@ -1,0 +1,25 @@
+raids:
+- name: AAC Cruiserweight M1 (Savage)
+  value: m1s
+- name: AAC Cruiserweight M2 (Savage)
+  value: m2s
+- name: AAC Cruiserweight M3 (Savage)
+  value: m3s
+- name: AAC Cruiserweight M4 (Savage)
+  value: m4s
+- name: The Cloud of Darkness (Chaotic)
+  value: chaotic
+- name: The Unending Coil of Bahamut (Ultimate)
+  value: ucob
+- name: The Weapon's Refrain (Ultimate)
+  value: uwu
+- name: The Epic of Alexander (Ultimate)
+  value: tea
+- name: Dragonsong's Reprise (Ultimate)
+  value: dsr
+- name: The Omega Protocol (Ultimate)
+  value: top
+- name: Futures Rewritten (Ultimate)
+  value: fru
+- name: The Wreath of Snakes (Unreal)
+  value: unreal3

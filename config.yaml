@@ -1,0 +1,157 @@
+channels:
+- name: fru-pf
+  id: "1310706985766752296"
+  duty: Futures Rewritten (Ultimate)
+  dataCentres:
+  - Aether
+  - Primal
+- name: top-pf
+  id: "1310691192337334374"
+  duty: The Omega Protocol (Ultimate)
+  dataCentres:
+  - Aether
+  - Primal
+- name: dsr-pf
+  id: "1310691213502054520"
+  duty: Dragonsong's Reprise (Ultimate)
+  dataCentres:
+  - Aether
+  - Primal
+- name: tea-pf
+  id: "1310691232930074664"
+  duty: The Epic of Alexander (Ultimate)
+  dataCentres:
+  - Aether
+  - Primal
+- name: uwu-pf
+  id: "1310691261161803786"
+  duty: The Weapon's Refrain (Ultimate)
+  dataCentres:
+  - Aether
+  - Primal
+- name: ucob-pf
+  id: "1310691295425073262"
+  duty: The Unending Coil Of Bahamuth (Ultimate)
+  dataCentres:
+  - Aether
+  - Primal
+- name: chaotic
+  id: "1321548942655099141"
+  duty: The Cloud of Darkness (Chaotic)
+  dataCentres:
+  - Aether
+  - Primal
+- name: m8s-pf
+  id: "1315136953938743367"
+  duty: AAC Cruiserweight M4 (Savage)
+  dataCentres:
+  - Aether
+  - Primal
+- name: m7s-pf
+  id: "1322192939593498697"
+  duty: AAC Cruiserweight M3 (Savage)
+  dataCentres:
+  - Aether
+  - Primal
+- name: m6s-pf
+  id: "1322192959608852592"
+  duty: AAC Cruiserweight M2 (Savage)
+  dataCentres:
+  - Aether
+  - Primal
+- name: m5s-pf
+  id: "1322192981096136798"
+  duty: AAC Cruiserweight M1 (Savage)
+  dataCentres:
+  - Aether
+  - Primal
+- name: pf-check-unreal
+  id: "1359593250671038654"
+  duty: The Wreath of Snakes (Unreal)
+  dataCentres:
+  - Aether
+  - Primal
+- name: fru-pf
+  id: "1359662479327756418"
+  duty: Futures Rewritten (Ultimate)
+  dataCentres:
+  - Aether
+  - Primal
+- name: top-pf
+  id: "1359662500362059857"
+  duty: The Omega Protocol (Ultimate)
+  dataCentres:
+  - Aether
+  - Primal
+- name: dsr-pf
+  id: "1359662522340212886"
+  duty: Dragonsong's Reprise (Ultimate)
+  dataCentres:
+  - Aether
+  - Primal
+- name: tea-pf
+  id: "1359662535577702421"
+  duty: The Epic of Alexander (Ultimate)
+  dataCentres:
+  - Aether
+  - Primal
+- name: uwu-pf
+  id: "1359662551381835786"
+  duty: The Weapon's Refrain (Ultimate)
+  dataCentres:
+  - Aether
+  - Primal
+- name: ucob-pf
+  id: "1359662575985623050"
+  duty: The Unending Coil of Bahamut (Ultimate)
+  dataCentres:
+  - Aether
+  - Primal
+- name: m8s-pf
+  id: "1359662947634381021"
+  duty: AAC Cruiserweight M4 (Savage)
+  dataCentres:
+  - Aether
+  - Primal
+- name: m7s-pf
+  id: "1359662970522833077"
+  duty: AAC Cruiserweight M3 (Savage)
+  dataCentres:
+  - Aether
+  - Primal
+- name: m6s-pf
+  id: "1359663010607792279"
+  duty: AAC Cruiserweight M2 (Savage)
+  dataCentres:
+  - Aether
+  - Primal
+- name: m5s-pf
+  id: "1359663031247831090"
+  duty: AAC Cruiserweight M1 (Savage)
+  dataCentres:
+  - Aether
+  - Primal
+- name: chaotic-pf
+  id: "1359663104564400158"
+  duty: The Cloud of Darkness (Chaotic)
+  dataCentres:
+  - Aether
+  - Primal
+- name: unreal
+  id: "1359156226448949323"
+  duty: The Wreath of Snakes (Unreal)
+  dataCentres:
+  - Aether
+  - Primal
+- name: unreal-pf
+  id: "1359663080602210444"
+  duty: The Wreath of Snakes (Unreal)
+  dataCentres:
+  - Aether
+  - Primal
+- name: pf-serio-do-tea-serio
+  id: "1420466678583525518"
+  duty: The Epic of Alexander (Ultimate)
+  dataCentres:
+  - Aether
+  - Primal
