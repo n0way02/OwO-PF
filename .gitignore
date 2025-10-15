@@ -9,7 +9,6 @@ findingway
 
 # Vendor and modules
 /vendor/
-go.sum
 
 # Environment files
 .env

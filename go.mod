@@ -1,6 +1,6 @@
 module github.com/Veraticus/findingway
 
-go 1.22
+go 1.25
 
 require (
 	github.com/bwmarrin/discordgo v0.27.1
